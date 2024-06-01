@@ -1,0 +1,28 @@
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 16px;
+}
+
+.product-item {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+    .product-item img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 8px;
+    }
+
+    .product-item h2 {
+        font-size: 1.5em;
+        margin: 0.5em 0;
+    }
+
+    .product-item p {
+        margin: 0.5em 0;
+    }

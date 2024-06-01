@@ -1,0 +1,84 @@
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\appsettings.Development.json
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\appsettings.json
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.staticwebassets.runtime.json
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.exe
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.deps.json
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.runtimeconfig.json
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Back.pdb
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Npgsql.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\web final\back\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.csproj.AssemblyReference.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.AssemblyInfoInputs.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.AssemblyInfo.cs
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.csproj.CoreCompileInputs.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.RazorAssemblyInfo.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.RazorAssemblyInfo.cs
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.Back.Microsoft.AspNetCore.StaticWebAssets.props
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.build.Back.props
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Back.props
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Back.props
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets.pack.json
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets.build.json
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\staticwebassets.development.json
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\scopedcss\bundle\Back.styles.css
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\scopedcss\projectbundle\Back.bundle.scp.css
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.csproj.CopyComplete
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.dll
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\refint\Back.dll
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.pdb
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\Back.genruntimeconfig.cache
+E:\projects\web final\back\WEBPROGM\obj\Debug\net7.0\ref\Back.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\appsettings.Development.json
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\appsettings.json
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Back.staticwebassets.runtime.json
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Back.exe
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Back.deps.json
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Back.runtimeconfig.json
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Back.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Back.pdb
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Npgsql.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.csproj.AssemblyReference.cache
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.GeneratedMSBuildEditorConfig.editorconfig
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.AssemblyInfoInputs.cache
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.AssemblyInfo.cs
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.csproj.CoreCompileInputs.cache
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.MvcApplicationPartsAssemblyInfo.cs
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.MvcApplicationPartsAssemblyInfo.cache
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.RazorAssemblyInfo.cache
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.RazorAssemblyInfo.cs
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\staticwebassets.build.json
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\staticwebassets.development.json
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.Back.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.build.Back.props
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Back.props
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Back.props
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\scopedcss\bundle\Back.styles.css
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\scopedcss\projectbundle\Back.bundle.scp.css
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.csproj.CopyComplete
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\refint\Back.dll
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.pdb
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\Back.genruntimeconfig.cache
+D:\Соня\Соня универ\4 сем\экстренно\back\WEBPROGM\obj\Debug\net7.0\ref\Back.dll

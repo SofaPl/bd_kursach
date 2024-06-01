@@ -1,0 +1,28 @@
+.cart-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.cart-item {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.cart-item-image {
+    max-width: 100px;
+    height: auto;
+    margin-bottom: 8px;
+}
+
+.cart-item h2 {
+    font-size: 1.2em;
+    margin: 0.5em 0;
+}
+
+.cart-item p {
+    margin: 0.5em 0;
+}

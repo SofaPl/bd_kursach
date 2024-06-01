@@ -1,0 +1,60 @@
+.container {
+    padding: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.grid-item {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s;
+}
+
+    .grid-item:hover {
+        transform: scale(1.05);
+    }
+
+    .grid-item img {
+        width: 100%;
+        height: auto;
+    }
+
+    .grid-item .content {
+        padding: 20px;
+    }
+
+    .grid-item .title {
+        font-size: 1.2em;
+        margin: 10px 0;
+    }
+
+    .grid-item .price {
+        font-size: 1em;
+        color: #28a745;
+        margin: 10px 0;
+    }
+
+    .grid-item .description {
+        font-size: 0.9em;
+        color: #555;
+        margin: 10px 0;
+    }
+
+    .grid-item .button {
+        padding: 10px 20px;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        .grid-item .button:hover {
+            background-color: #218838;
+        }
